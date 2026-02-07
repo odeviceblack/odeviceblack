@@ -56,8 +56,8 @@ I’m self-taught and driven by curiosity. I enjoy understanding how things work
 
 ## 📊 GitHub Stats
 
-![DeviceBlack GitHub Stats](https://github-readme-stats.vercel.app/api?username=odeviceblack&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeviceblack&layout=compact&theme=dark)
+![DeviceBlack GitHub Stats](https://raw.githubusercontent.com/odeviceblack/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Top Langs](https://raw.githubusercontent.com/odeviceblack/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 
