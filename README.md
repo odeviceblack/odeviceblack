@@ -56,10 +56,8 @@ I’m self-taught and driven by curiosity. I enjoy understanding how things work
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/odeviceblack/github-stats">
-<img src="https://github.com/odeviceblack/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/odeviceblack/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+<img src="https://github-stats-theta-pied.vercel.app/overview.svg#gh-dark-mode-only" />
+<img src="https://github-stats-theta-pied.vercel.app/languages.svg#gh-dark-mode-only" />
 
 ---
 
