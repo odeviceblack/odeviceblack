@@ -54,13 +54,6 @@ I’m self-taught and driven by curiosity. I enjoy understanding how things work
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-stats-theta-pied.vercel.app/overview.svg#gh-dark-mode-only" />
-<img src="https://github-stats-theta-pied.vercel.app/languages.svg#gh-dark-mode-only" />
-
----
-
 ## 📫 Where to find me
 
 💬 GitHub Issues, Discussions or PRs  
